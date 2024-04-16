@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinav9573
 - 👀 I’m a computer science student.
-- 🌱 I’m currently learning DSA and Web Development.
+- 🌱 Currently learning DSA and Web Development.
 - 👍Currently Pursuing B.tech at Galgotias university.
 - Looking forward for a code that will give me recognisation.
 <!---
